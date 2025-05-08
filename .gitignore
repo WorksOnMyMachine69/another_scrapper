@@ -1,0 +1,7 @@
+.venv/
+creds.py
+extract/
+temp/
+index_companies.html
+index_notices.html
+__pycache__/
